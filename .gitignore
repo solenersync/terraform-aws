@@ -1,2 +1,7 @@
 .terraform/modules
 .terraform/providers
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
